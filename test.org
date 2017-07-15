@@ -1,0 +1,16 @@
+* test
+test1 comment
+** input
+1 2 3
+abc edf
+** option
+-v -e
+
+* test
+test2 comment
+** input 
+1
+2
+3
+** option
+
