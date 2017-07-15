@@ -25,6 +25,7 @@ def main():
                 td = {'test': [], 'input': [], 'option': []}
         else:
             td[operate].append(l)
+    tdl.append(td)
     print(tdl)
 
 
